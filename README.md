@@ -11,7 +11,7 @@
 
 - 📫 You can reach me at: **juansechavero@gmail.com**
 
-- 📄 See my resume at: [https://app.flowcv.com/resume-feedback/jl9T-KjF-TrrooahVdZcN](https://app.flowcv.com/resume-feedback/jl9T-KjF-TrrooahVdZcN)
+- 📄 See my resume at: [https://bit.ly/3C4i2t3](https://bit.ly/3C4i2t3)
 
 <h2 align="left">📲 Connect with me</h2>
 <p align="left">
