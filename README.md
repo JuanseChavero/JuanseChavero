@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Juanse Chavero</h1>
-<h3 align="center">A <<i><s>super duper</s></i>> full-stack developer from Argentina</h3>
+<h3 align="center">And I'm a full-stack developer from Argentina</h3>
 
 <h2 align="left">👀 About me</h2>
 <p>🧐 I am <b>Juan Segundo Chavero, a Full-stack developer and Systems analyst</b> currently residing in Argentina</p>
